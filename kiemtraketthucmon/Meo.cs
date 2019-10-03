@@ -19,7 +19,7 @@ namespace kiemtraketthucmon
 
         public override string keu()
         {
-            return base.keu() + "Meo meo ";
+            return base.keu() + "Meo meo " + "Toi la meo long mau " + MauLong;
 
         }
     }
