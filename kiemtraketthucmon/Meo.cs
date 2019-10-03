@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace kiemtraketthucmon
 {
@@ -20,7 +21,6 @@ namespace kiemtraketthucmon
         public override string keu()
         {
             return base.keu() + "Meo meo " + "Toi la meo long mau " + MauLong;
-
         }
     }
 }
